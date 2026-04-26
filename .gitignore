@@ -1,0 +1,9 @@
+# STM32CubeIDE Ignore List
+Debug/
+Release/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+.metadata/
